@@ -55,3 +55,12 @@ h2 {
 	font-size: 14px;
 	font-weight: bold;
 }
+
+.hero-image {
+	width: 600px;
+	height: 300px;
+}
+.small-box {
+	width: 100px;
+	height: 100px;
+}
